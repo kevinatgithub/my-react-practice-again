@@ -1,0 +1,6 @@
+export const ADD_ARTICLE = "ADD_ARTICLE";
+export const ADD_EMPLOYEE = "ADD_EMPLOYEE";
+export const EDIT_EMPLOYEE = "EDIT_EMPLOYEE";
+export const DELETE_EMPLOYEE = "DELETE_EMPLOYEE";
+export const SET_CURRENT = "SET_CURRENT";
+export const DATA_LOADED = "DATA_LOADED";
